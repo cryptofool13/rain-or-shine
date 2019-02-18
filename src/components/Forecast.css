@@ -1,0 +1,16 @@
+.five-day {
+  display: flex;
+  flex-direction: row;
+}
+.day-icon {
+  height: 75%;
+  width: 75%;
+}
+.day-temp {
+  font-size: 0.5rem;
+  font-weight: 450;
+}
+.day {
+  margin: 0.5rem;
+  /* align-content: center; */
+}
